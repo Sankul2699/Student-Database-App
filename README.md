@@ -3,8 +3,12 @@
  It stores student’s Name, Date of Birth dynamically and Marks to a file(excel) while automatically assigning each student a roll number.
  
  The Gui interface has been done using Win32.
-
+ And C++ Compiler was used. 
  Win32 is the 32-bit application programming interface (API) for versions of Windows from 95 onwards. The API consists of functions implemented, as with Win16, in system DLLs. The core DLLs of Win32 are kernel32.dll, user32.dll, and gdi32.dll. Win32 was introduced with Windows NT. The version of Win32 shipped with Windows 95 was initially referred to as Win32c, with c meaning compatibility. This term was later abandoned by Microsoft in favor of Win32.
+ ## Repository Contents
+- **code** - Contains the code (C++) 
+- **images** - Images of windows of the app
+- **report** - Documentation on the working of the app
  # THE APP INTERFACE
  ![](https://github.com/Sankul2699/Student-Database-App/blob/master/Images/front%20main.JPG) 
  
