@@ -1,3 +1,12 @@
+/*
+* Project Name: Student-Database-App
+
+* File Name:backend_storing.cpp
+
+* Author : Sanchit Kulkarni
+*/
+
+
 #include <iostream>
 #define maxim 5 //maximum entries macro
 
